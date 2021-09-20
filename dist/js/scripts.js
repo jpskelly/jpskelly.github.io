@@ -3,6 +3,9 @@
 * Copyright 2013-2021 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/master/LICENSE)
 */
+function callbackName(response) {
+    document.getElementById('visits').innerText = response.value;
+}
 (function ($) {
     "use strict"; // Start of use strict
 
