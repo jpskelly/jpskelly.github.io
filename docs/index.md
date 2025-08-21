@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "John Skelly – Systems Engineer"
+title: "John Skelly"
 ---
 
 **Senior Systems Engineer | Cybersecurity Strategist | Automation Architect**  
@@ -24,23 +24,28 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
 ## Professional Experience
 
-### MoneyGram International — *Senior Systems Engineer*  
+### MoneyGram International — *T Engineer IV*  
 *2017–Present | Minneapolis, MN*  
-- Migrated DFS infrastructure to AWS FSx/S3, improving scalability and reducing costs  
-- Automated patching and server builds, cutting deployment time by 75%  
-- Hardened AD controllers using Solid Core and implemented PKI for secure access  
-- Supported compliance initiatives across HIPAA, PCI-DSS, and ITAR domains
+- Migrated DFS/ File Server infrastructure to AWS FSx/S3 with deduplication, from 25 file servers to 4 
+- Created Powershell scripts to create local access groups for all servers removing the need for manual creation
+- Migrated over 1000 Windows Servers environmet in multiple countries to a less than 400 server AWS environment
+- Secured privliaged access using vaults and dedicated administrator accounts with daily password rotation
+- Created detailed technical plans to remenediate vulnerabilities idetified by security team
+- Consolidated 5 AD Domains to one domain 
 
 ### IBM — *Systems Engineer*  
 *2002–2016 | Minneapolis, MN*  
 - Provided infrastructure support for United Launch Alliance and other federal clients  
 - Managed Citrix farms, DFS replication, and secure file transfer protocols  
-- Led PKI deployment and documentation for enterprise authentication  
 - Developed PowerShell scripts for system health checks and reporting
-
+- Automated patching and server builds, cutting deployment time by 75%
+- Hardened AD controllers using Solid Core
+- Supported compliance initiatives across HIPAA, PCI-DSS, and ITAR domains
 ---
 
 ## Certifications
+
+### Current Cettifications
 - MS-102
 - SC-300
 - AZ-104
@@ -55,6 +60,14 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 - VMware VCP 6
 - G2700
 
+### Certifications that need to be renewed
+- Cisco CCENT
+- Computer Hacking Forensic Investigator v8 V7
+- Certified Ethical Hacker, CEH V7
+- AWS Certified Cloud Practitioner
+- AWS Certified SysOps Administrator - Associate
+- AWS Certified Developer - Associate
+- AWS Certified Solutions Architect - Associate
 ---
 
 ## Education
