@@ -73,7 +73,7 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 ## Education
 **Master of Science (MS) in Information Security and Assurance Western Governors University Salt Lake City, UT
 **Bachelor of Science (BS) in Information Technology Western Governors University Salt Lake City, UT
-**A.A.S. in Network Administration** – Hennepin Technical College
+**Certificate in Electronic Technology** – Hennepin Technical College
 
 ---
 
