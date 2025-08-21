@@ -24,13 +24,13 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
 ## Professional Experience
 
-### MoneyGram International — *T Engineer IV*  
+### MoneyGram International — *IT Engineer IV*  
 *2017–Present | Minneapolis, MN*  
 - Migrated DFS/ File Server infrastructure to AWS FSx/S3 with deduplication, from 25 file servers to 4 
-- Created Powershell scripts to create local access groups for all servers removing the need for manual creation
-- Migrated over 1000 Windows Servers environmet in multiple countries to a less than 400 server AWS environment
-- Secured privliaged access using vaults and dedicated administrator accounts with daily password rotation
-- Created detailed technical plans to remenediate vulnerabilities idetified by security team
+- Created PowerShell scripts to create local access groups for all servers removing the need for manual creation
+- Migrated an 1000+ Windows Server environment in multiple countries to a less than 400 server AWS environment
+- Secured privileged access using vaults and dedicated administrator accounts with daily password rotation
+- Created detailed technical plans to remediate vulnerabilities identified by security team
 - Consolidated 5 AD Domains to one domain 
 
 ### IBM — *Systems Engineer*  
@@ -45,7 +45,7 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
 ## Certifications
 
-### Current Cettifications
+### Current Certifications
 - MS-102
 - SC-300
 - AZ-104
