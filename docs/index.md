@@ -41,6 +41,7 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 - Automated patching and server builds, cutting deployment time by 75%
 - Hardened AD controllers using Solid Core
 - Supported compliance initiatives across HIPAA, PCI-DSS, and ITAR domains
+
 ---
 
 ## Certifications
@@ -68,11 +69,12 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 - AWS Certified SysOps Administrator - Associate
 - AWS Certified Developer - Associate
 - AWS Certified Solutions Architect - Associate
+
 ---
 
 ## Education
-**Master of Science (MS) in Information Security and Assurance Western Governors University Salt Lake City, UT
-**Bachelor of Science (BS) in Information Technology Western Governors University Salt Lake City, UT
+**Master of Science (MS) in Information Security and Assurance** - Western Governors University
+**Bachelor of Science (BS) in Information Technology**  - Western Governors University
 **Certificate in Electronic Technology** – Hennepin Technical College
 
 ---
