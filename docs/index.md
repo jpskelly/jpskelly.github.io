@@ -5,7 +5,7 @@ title: "John Skelly – Systems Engineer"
 
 # John Skelly  
 **Senior Systems Engineer | Cybersecurity Strategist | Automation Architect**  
-Robbinsdale, MN • [GitHub](https://github.com/jpskelly) • [LinkedIn](#) • [Email](mailto:your.email@example.com)
+Robbinsdale, MN • [GitHub](https://github.com/jpskelly) • [LinkedIn](https://www.linkedin.com/in/john-skelly) • 
 
 ---
 
@@ -42,20 +42,30 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 ---
 
 ## Certifications
-- SC-401: Microsoft Cloud Security (In Progress)  
-- AZ-500: Microsoft Azure Security Technologies (Targeted)  
-- ITIL Foundation
+- MS-102
+- SC-300
+- AZ-104
+- AZ-800/AZ801
+- AZ-305
+- A+
+- Network +
+- Security +
+- IT Project +
+- MCSE + Security
+- MCITP Hyper-V
+- VMware VCP 6
+- G2700
 
 ---
 
 ## Education
-**B.S. in Information Systems** – University of Minnesota  
+**Master of Science (MS) in Information Security and Assurance Western Governors University Salt Lake City, UT
+**Bachelor of Science (BS) in Information Technology Western Governors University Salt Lake City, UT
 **A.A.S. in Network Administration** – Hennepin Technical College
 
 ---
 
 ## Projects & GitHub Highlights
-- [DFS Migration Scripts](https://github.com/jpskelly) – PowerShell automation for AWS FSx/S3  
-- [Citrix Farm Health Checks](https://github.com/jpskelly) – Monitoring and alerting scripts  
-- [Terraform Templates](https://github.com/jpskelly) – Infrastructure-as-code for hybrid environments
+- [Capturing traffic with pktmon](https://github.com/jpskelly/jpskelly/blob/master/presentations/Capturing_Traffic_with_Pktmon_and_Wireshark.pptx) – capture traffic with pktmon instead of wireshark  
+
 
