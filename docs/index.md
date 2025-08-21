@@ -48,7 +48,9 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
 ## Certifications
 
-### Current Certifications
+<details>
+  <summary><strong>✅ Current Certifications</strong></summary>
+
 - MS-102  
 - SC-300  
 - AZ-104  
@@ -63,7 +65,11 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 - VMware VCP 6  
 - G2700  
 
-### Certifications to Renew
+</details>
+
+<details>
+  <summary><strong>🕒 Certifications to Renew</strong></summary>
+
 - Cisco CCENT  
 - Computer Hacking Forensic Investigator v8/v7  
 - Certified Ethical Hacker (CEH v7)  
@@ -72,12 +78,17 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 - AWS Certified Developer – Associate  
 - AWS Certified Solutions Architect – Associate  
 
+</details>
+
 ---
 
 ## Education
-**Master of Science (MS) in Information Security and Assurance** – Western Governors University  
-**Bachelor of Science (BS) in Information Technology** – Western Governors University  
-**Certificate in Electronic Technology** – Hennepin Technical College
+**Master of Science (MS) in Information Security and Assurance**
+Western Governors University Salt Late City, UT 
+**Bachelor of Science (BS) in Information Technology**
+Western Governors University Salt Late City, UT  
+**Certificate in Electronic Technology**
+Hennepin Technical College, Eden Prairie, MN
 
 ---
 
