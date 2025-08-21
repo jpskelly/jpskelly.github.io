@@ -3,14 +3,13 @@ layout: default
 title: "John Skelly – Systems Engineer"
 ---
 
-# John Skelly  
 **Senior Systems Engineer | Cybersecurity Strategist | Automation Architect**  
 Robbinsdale, MN • [GitHub](https://github.com/jpskelly) • [LinkedIn](https://www.linkedin.com/in/john-skelly) • 
 
 ---
 
 ## Summary
-Seasoned IT professional with 20+ years of experience in enterprise systems, cloud migration, and cybersecurity. Proven track record in automation, compliance, and infrastructure modernization. Currently pursuing SC-401 certification to deepen expertise in Microsoft cloud security.
+Seasoned IT professional with 20+ years of experience in enterprise systems, cloud migration, and cybersecurity. Proven track record in automation, compliance, and infrastructure modernization.
 
 ---
 
@@ -66,6 +65,6 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 ---
 
 ## Projects & GitHub Highlights
-- [Capturing traffic with pktmon](https://github.com/jpskelly/jpskelly/blob/master/presentations/Capturing_Traffic_with_Pktmon_and_Wireshark.pptx) – capture traffic with pktmon instead of wireshark  
+- [Capturing traffic with pktmon](https://github.com/jpskelly/jpskelly/blob/master/presentations/Capturing_Traffic_with_Pktmon_and_Wireshark.pdf) – capture traffic with pktmon instead of wireshark  
 
 
