@@ -28,9 +28,9 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 *2017–Present | Minneapolis, MN*  
 - Migrated DFS/File Server infrastructure to AWS FSx/S3 with deduplication, reducing 25 file servers to 4  
 - Automated local access group creation via PowerShell, eliminating manual setup  
-- Consolidated 1000+ Windows Servers across multiple countries into <400 AWS instances  
+- Consolidated 1000+ Windows Servers across multiple countries into under 400 AWS instances  
 - Secured privileged access with vaults and daily password rotation  
-- Authored technical remediation plans for vulnerabilities flagged by security teams  
+- Authored technical remediation plans for vulnerabilities flagged by security team  
 - Unified five AD domains into a single domain
 
 ---
@@ -104,21 +104,26 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 <details>
   <summary><strong>Formal Degrees</strong></summary>
 
-  - **Master of Science (MS) in Information Security and Assurance**  
+  <strong> - Master of Science (MS) in Information Security and Assurance</strong>
+  <br>
     Western Governors University Salt Late City, UT 
+ <br>
     Focus: Governance, Risk, and Compliance
 
  <br>
 
-  - **Bachelor of Science (BS) in Information Technology****  
-    Western Governors University Salt Late City, UT   
-    Emphasis: Systems and services 
-
+ <strong> - Bachelor of Science (BS) in Information Technology</strong>
+ <br>
+   Western Governors University Salt Late City, UT   
+ <br>
+   Emphasis: Systems and services 
  <br>
 
-  - **Electronic Technology Certificate****  
-    Hennepin Technical College, Eden Prairie, MN
-    Skills: Soldering, Troubleshooting, Electronics 
+ <strong>- Electronic Technology Certificate</strong>
+ <br>
+   Hennepin Technical College, Eden Prairie, MN
+ <br>
+   Skills: Soldering, Troubleshooting, Electronics 
 
  <br>
 
