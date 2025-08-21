@@ -51,18 +51,30 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 <details>
   <summary><strong>✅ Current Certifications</strong></summary>
 
-- MS-102  
-- SC-300  
-- AZ-104  
+- MS-102
+ <br> 
+- SC-300
+ <br>  
+- AZ-104
+ <br>  
 - AZ-800 / AZ-801  
-- AZ-305  
-- A+  
-- Network+  
-- Security+  
-- IT Project+  
-- MCSE + Security  
-- MCITP Hyper-V  
-- VMware VCP 6  
+ <br>
+- AZ-305
+ <br>  
+- A+ 
+ <br> 
+- Network+
+ <br>  
+- Security+
+ <br>  
+- IT Project+
+ <br>  
+- MCSE + Security
+ <br>  
+- MCITP Hyper-V
+ <br>  
+- VMware VCP 6
+ <br>  
 - G2700  
 
 </details>
@@ -71,11 +83,17 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
   <summary><strong>🕒 Certifications to Renew</strong></summary>
 
 - Cisco CCENT  
+ <br>
 - Computer Hacking Forensic Investigator v8/v7  
+ <br>
 - Certified Ethical Hacker (CEH v7)  
+ <br>
 - AWS Certified Cloud Practitioner  
+ <br>
 - AWS Certified SysOps Administrator – Associate  
+ <br>
 - AWS Certified Developer – Associate  
+ <br>
 - AWS Certified Solutions Architect – Associate  
 
 </details>
@@ -90,13 +108,19 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
     Western Governors University Salt Late City, UT 
     Focus: Governance, Risk, and Compliance
 
+ <br>
+
   - **Bachelor of Science (BS) in Information Technology****  
     Western Governors University Salt Late City, UT   
     Emphasis: Systems and services 
 
+ <br>
+
   - **Electronic Technology Certificate****  
     Hennepin Technical College, Eden Prairie, MN
     Skills: Soldering, Troubleshooting, Electronics 
+
+ <br>
 
 </details>
 
