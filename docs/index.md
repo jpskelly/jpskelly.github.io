@@ -81,14 +81,24 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 </details>
 
 ---
+## 🎓 Education
 
-## Education
-**Master of Science (MS) in Information Security and Assurance**
-Western Governors University Salt Late City, UT 
-**Bachelor of Science (BS) in Information Technology**
-Western Governors University Salt Late City, UT  
-**Certificate in Electronic Technology**
-Hennepin Technical College, Eden Prairie, MN
+<details>
+  <summary><strong>Formal Degrees</strong></summary>
+
+  - **Master of Science (MS) in Information Security and Assurance**  
+    Western Governors University Salt Late City, UT 
+    Focus: Governance, Risk, and Compliance
+
+  - **Bachelor of Science (BS) in Information Technology****  
+    Western Governors University Salt Late City, UT   
+    Emphasis: Systems and services 
+
+  - **Electronic Technology Certificate****  
+    Hennepin Technical College, Eden Prairie, MN
+    Skills: Soldering, Troubleshooting, Electronics 
+
+</details>
 
 ---
 
