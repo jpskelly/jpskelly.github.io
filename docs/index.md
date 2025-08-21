@@ -24,7 +24,7 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
 ## Professional Experience
 
-### MoneyGram International — *IT Engineer IV*  
+### MoneyGram — *IT Engineer IV*  
 *2017–Present | Minneapolis, MN*  
 - Migrated DFS/File Server infrastructure to AWS FSx/S3 with deduplication, reducing 25 file servers to 4  
 - Automated local access group creation via PowerShell, eliminating manual setup  
