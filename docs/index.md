@@ -4,7 +4,7 @@ title: "John Skelly"
 ---
 
 **Senior Systems Engineer | Cybersecurity Strategist | Automation Architect**  
-Robbinsdale, MN • [GitHub](https://github.com/jpskelly) • [LinkedIn](https://www.linkedin.com/in/john-skelly) • 
+Robbinsdale, MN • [GitHub](https://github.com/jpskelly) • [LinkedIn](https://www.linkedin.com/in/john-skelly)
 
 ---
 
@@ -26,60 +26,60 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
 ### MoneyGram International — *IT Engineer IV*  
 *2017–Present | Minneapolis, MN*  
-- Migrated DFS/ File Server infrastructure to AWS FSx/S3 with deduplication, from 25 file servers to 4 
-- Created PowerShell scripts to create local access groups for all servers removing the need for manual creation
-- Migrated an 1000+ Windows Server environment in multiple countries to a less than 400 server AWS environment
-- Secured privileged access using vaults and dedicated administrator accounts with daily password rotation
-- Created detailed technical plans to remediate vulnerabilities identified by security team
-- Consolidated 5 AD Domains to one domain 
+- Migrated DFS/File Server infrastructure to AWS FSx/S3 with deduplication, reducing 25 file servers to 4  
+- Automated local access group creation via PowerShell, eliminating manual setup  
+- Consolidated 1000+ Windows Servers across multiple countries into <400 AWS instances  
+- Secured privileged access with vaults and daily password rotation  
+- Authored technical remediation plans for vulnerabilities flagged by security teams  
+- Unified five AD domains into a single domain
+
+---
 
 ### IBM — *Systems Engineer*  
 *2002–2016 | Minneapolis, MN*  
-- Provided infrastructure support for United Launch Alliance and other federal clients  
+- Supported infrastructure for United Launch Alliance and federal clients  
 - Managed Citrix farms, DFS replication, and secure file transfer protocols  
-- Developed PowerShell scripts for system health checks and reporting
-- Automated patching and server builds, cutting deployment time by 75%
-- Hardened AD controllers using Solid Core
-- Supported compliance initiatives across HIPAA, PCI-DSS, and ITAR domains
+- Developed PowerShell scripts for system health checks and reporting  
+- Automated patching and server builds, reducing deployment time by 75%  
+- Hardened AD controllers using Solid Core  
+- Ensured compliance with HIPAA, PCI-DSS, and ITAR standards
 
 ---
 
 ## Certifications
 
 ### Current Certifications
-- MS-102
-- SC-300
-- AZ-104
-- AZ-800/AZ801
-- AZ-305
-- A+
-- Network +
-- Security +
-- IT Project +
-- MCSE + Security
-- MCITP Hyper-V
-- VMware VCP 6
-- G2700
+- MS-102  
+- SC-300  
+- AZ-104  
+- AZ-800 / AZ-801  
+- AZ-305  
+- A+  
+- Network+  
+- Security+  
+- IT Project+  
+- MCSE + Security  
+- MCITP Hyper-V  
+- VMware VCP 6  
+- G2700  
 
-### Certifications that need to be renewed
-- Cisco CCENT
-- Computer Hacking Forensic Investigator v8 V7
-- Certified Ethical Hacker, CEH V7
-- AWS Certified Cloud Practitioner
-- AWS Certified SysOps Administrator - Associate
-- AWS Certified Developer - Associate
-- AWS Certified Solutions Architect - Associate
+### Certifications to Renew
+- Cisco CCENT  
+- Computer Hacking Forensic Investigator v8/v7  
+- Certified Ethical Hacker (CEH v7)  
+- AWS Certified Cloud Practitioner  
+- AWS Certified SysOps Administrator – Associate  
+- AWS Certified Developer – Associate  
+- AWS Certified Solutions Architect – Associate  
 
 ---
 
 ## Education
-**Master of Science (MS) in Information Security and Assurance** - Western Governors University
-**Bachelor of Science (BS) in Information Technology**  - Western Governors University
+**Master of Science (MS) in Information Security and Assurance** – Western Governors University  
+**Bachelor of Science (BS) in Information Technology** – Western Governors University  
 **Certificate in Electronic Technology** – Hennepin Technical College
 
 ---
 
 ## Projects & GitHub Highlights
-- [Capturing traffic with pktmon](https://github.com/jpskelly/jpskelly/blob/master/presentations/Capturing_Traffic_with_Pktmon_and_Wireshark.pdf) – capture traffic with pktmon instead of wireshark  
-
-
+- [Capturing Traffic with pktmon and Wireshark](https://github.com/jpskelly/jpskelly/blob/master/presentations/Capturing_Traffic_with_Pktmon_and_Wireshark.pdf) – Using pktmon as a lightweight alternative to Wireshark
