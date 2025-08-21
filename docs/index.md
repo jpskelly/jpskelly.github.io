@@ -106,25 +106,28 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
   <strong> - Master of Science (MS) in Information Security and Assurance</strong>
   <br>
-    Western Governors University Salt Late City, UT 
+    		Western Governors University Salt Late City, UT 
  <br>
-    Focus: Governance, Risk, and Compliance
+    		Focus: Governance, Risk, and Compliance
 
+ <br>
  <br>
 
  <strong> - Bachelor of Science (BS) in Information Technology</strong>
  <br>
-   Western Governors University Salt Late City, UT   
+   		Western Governors University Salt Late City, UT   
  <br>
-   Emphasis: Systems and services 
+   		Emphasis: Systems and services 
+ <br>
  <br>
 
  <strong>- Electronic Technology Certificate</strong>
  <br>
-   Hennepin Technical College, Eden Prairie, MN
+   		Hennepin Technical College, Eden Prairie, MN
  <br>
-   Skills: Soldering, Troubleshooting, Electronics 
+   		Skills: Soldering, Troubleshooting, Electronics 
 
+ <br>
  <br>
 
 </details>
