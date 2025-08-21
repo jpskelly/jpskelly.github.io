@@ -128,3 +128,16 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
 ## Projects & GitHub Highlights
 - [Capturing Traffic with pktmon and Wireshark](https://github.com/jpskelly/jpskelly/blob/master/presentations/Capturing_Traffic_with_Pktmon_and_Wireshark.pdf) – Using pktmon as a lightweight alternative to Wireshark
+
+## 📬 Contact Me
+
+<!-- Formspree contact form -->
+<form action="https://formspree.io/f/xqkwnddr" method="POST">
+  <label for="email">Your email:</label><br>
+  <input type="email" name="email" required><br><br>
+
+  <label for="message">Your message:</label><br>
+  <textarea name="message" rows="5" required></textarea><br><br>
+
+  <button type="submit">Send</button>
+</form>
