@@ -149,3 +149,7 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 
   <button type="submit">Send</button>
 </form>
+---
+Thanks for visiting!
+
+<a href="/marvin-mode/" class="btn btn-outline-danger" style="margin-top:40px;">🚨 Don't Panic</a>
