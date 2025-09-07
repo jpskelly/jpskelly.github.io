@@ -16,7 +16,8 @@ permalink: /dont-panic/
 
 &nbsp; <p style="font-style:italic;">“Life? Don’t talk to me about life.” — Marvin</p>
 
-&nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/e/e2/Marvin\_%28HHGG%29.jpg" alt="Marvin the Paranoid Android" style="width:300px;"/>
+![Marvin the Paranoid Android](/assets/images/marvin.jpg)
+
 
 </div>
 
