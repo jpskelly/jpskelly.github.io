@@ -51,6 +51,8 @@ Seasoned IT professional with 20+ years of experience in enterprise systems, clo
 <details>
   <summary><strong>✅ Current Certifications</strong></summary>
 
+- Microsoft Applied Skills: Administer Active Directory Domain Services
+ <br>
 - MS-102
  <br> 
 - SC-300
