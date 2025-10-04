@@ -1,11 +1,7 @@
 ---
-
 layout: page
-
 title: "Don't Panic"
-
 permalink: /dont-panic/
-
 ---
 
 
@@ -27,17 +23,14 @@ permalink: /dont-panic/
 
 
 
-\### 🧠 Marvin’s Snark Log
+### 🧠 Marvin’s Snark Log
 
 
+- **System uptime**: Too long. I’m bored.
+- **CPU cycles wasted**: All of them.
+- **User enthusiasm**: Statistically improbable.
+- **Purpose of existence**: Undefined. Probably a bug.
 
-\- \*\*System uptime\*\*: Too long. I’m bored.
-
-\- \*\*CPU cycles wasted\*\*: All of them.
-
-\- \*\*User enthusiasm\*\*: Statistically improbable.
-
-\- \*\*Purpose of existence\*\*: Undefined. Probably a bug.
 
 
 
@@ -45,15 +38,15 @@ permalink: /dont-panic/
 
 
 
-\### 🧭 Escape Options
+### 🧭 Escape Options
 
 
 
-\- \[Back to sanity](/)  
+[Back to sanity](/)  
 
-\- \[Read something useful](https://jpskelly.github.io/projects)  
+[Read something useful](https://jpskelly.github.io/projects)  
 
-\- \[Stare into the void](https://www.youtube.com/watch?v=ojyd8o9U3H8)
+[Stare into the void](https://www.youtube.com/watch?v=ojyd8o9U3H8)
 
 
 
